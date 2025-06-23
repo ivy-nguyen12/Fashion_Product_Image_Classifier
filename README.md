@@ -59,14 +59,14 @@ Key results include:
 
 ## Highlighted Visualizations
 
+**Cross-Validation Accuracy by Hidden Layers & Alpha:**  
+![CV Accuracy Heatmap](Notebooks/CV%20Accuracy%20by%20Alpha%20and%20Hidden%20Layer%20Size%20.png)
+
 **Loss Curve with He Normal Initialization:**  
-`Notebooks/Loss Curve of He Normal Initialization.png`
+![He Normal Loss](Notebooks/Loss%20Curve%20of%20He%20Normal%20Initialization.png)
 
 **Effect of Regularization (L2 + Dropout):**  
-`Notebooks/Loss Curve of L2 and Dropout Regularization.png`
-
-**Cross-Validation Accuracy by Hidden Layers & Alpha:**  
-`Notebooks/CV Accuracy by Alpha and Hidden Layer Size.png`
+![L2 Dropout Loss](Notebooks/Loss%20Curve%20of%20L2%20and%20Dropout%20Regularization.png)
 
 ---
 
@@ -87,8 +87,8 @@ Key results include:
 ---
 
 ## Key Deliverables
-- Python code: `Notebooks/Final Code_Team A4.ipynb`
-- Final project report: `Reports/Project Report_Team_A4.pdf`
+- [Python Code (Final Notebook)](Notebooks/Final%20Code_Team%20A4.ipynb)
+- [Final Project Report (PDF)](Reports/Project%20Report_Team_A4.pdf)
 
 ---
 
